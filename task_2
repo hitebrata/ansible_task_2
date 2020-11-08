@@ -1,0 +1,31 @@
+‼️ IMPORTANT ‼️
+
+Task 2
+
+Statement : Deploy Web Server on AWS through ANSIBLE!
+
+♦️Provision EC2 instance through ansible.
+
+♦️Retrieve the IP Address of instance using dynamic inventory concept.
+
+♦️Configure the web server through ansible!
+
+♦️Create role for webserver to customize the Instance and deploy the webpage to root directory.
+
+Optional : Write a playbook for testing of the tasks.
+
+For Example: If the task is installation of httpd package then for checking the status of package, ansible has the module named as package_facts.
+just like that search modules for checking status of each task!
+
+if u don't find any module then command module can be useful
+
+Note: Complete process have to be automated!
+Ansible role has a folder named as test, write the testing playbook there!
+
+Summary : One Click Instance Launched and Web Server Deployed!
+
+Task Submission Link : https://forms.gle/PVimPs1voqLbSPpF6
+Task Submission Deadline : 22nd Aug @ 11:00PM
+
+Research more and do as much better as u can!
+Happy Learning!
